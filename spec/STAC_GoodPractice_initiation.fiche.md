@@ -56,5 +56,6 @@ By following the proposed good practice, data providers will be able to publish 
 
 
 ## Limitations
+STAC Good Practice does not cover:
 - Direct access to spatial objects or dynamic datasets (covered by WFS/OGC API - Features).
 - Real-time or on-demand data access.
