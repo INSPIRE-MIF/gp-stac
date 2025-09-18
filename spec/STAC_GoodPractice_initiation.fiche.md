@@ -22,18 +22,19 @@ This good practice covers the **INSPIRE network services** and specifically the 
 ## References
 
 ### Normative References
-- STAC Specification - SpatioTemporal Asset Catalog Specification
-- OGC API - Features - Part 1: Core
-- OGC API - Features - Part 2: Coordinate Reference Systems by Reference
-- OpenAPI 3.0 - OpenAPI Initiative (OAI). OpenAPI Specification. The latest patch version at the time of publication of this document was 3.0.3, published in February 2020.
-- IRs for NS - Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services
-- IRs for ISDSS - Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services
-- INSPIRE Good Practice: Data-Service Linking Simplification
+- [**STAC Specification**](https://stacspec.org/en/about/stac-spec/) *- SpatioTemporal Asset Catalog Specificatoin*
+- [***OGC API - Features - 1***](http://docs.opengeospatial.org/is/17-069r3/17-069r3.html "OGC API - Features - Part 1: Core")** *- OGC API - Features - Part 1: Core 2*
+- [***OGC API - Features - 2***](http://docs.opengeospatial.org/is/18-058/18-058.html "OGC API - Features - Part 2: Coordinate Reference Systems by Reference") *- OGC API - Features - Part 2: Coordinate Reference Systems by Reference*
+- [***OpenAPI 3.0***](http://spec.openapis.org/oas/v3.0.3 "OpenAPI Specification 3.0") *- OpenAPI Initiative (OAI). OpenAPI Specification. The latest patch version at the time of publication of this document was 3.0.3, published in February 2020.*
+- [***IRs for NS***](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0976-20141231&from=EN "Implementing Rules for Network Services (consolidated version of 31/12/2014)") *- Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services*
+- [***IRs for ISDSS***](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1089-20141231&from=EN "Implementing Rules for interoperability of spatial data sets and services (consolidated version of 31/12/2014)") *- Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services*
+- [***INSPIRE Good Practice: Data-Service Linking Simplification***](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/good-practice/good-practice-fiche.md)
 
 ### Other References
 Provide other references, e.g. to papers, presentations etc.
-- Setting up an INSPIRE Download service based on the OGC API-Features standard
-- Presentation STAC good practice candidate, MIG-T meeting #82
+- [***Setting up an INSPIRE Download service based on the OGC API-Features standard***](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md)
+- [***Presentation STAC good practice candidate, MIG-T meeting #82***](https://wikis.ec.europa.eu/download/attachments/177046460/MIG-T82_Good%20Practice_STAC_v2.pdf?version=1&modificationDate=1757413911675&api=v2)
+
 
 
 ## Relevance & Expected Benefits
