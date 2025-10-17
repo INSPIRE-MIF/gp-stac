@@ -1,4 +1,3 @@
-
 ---
 name: Deployment template
 about: Describes a deployment of STAC as an INSPIRE Download service.
