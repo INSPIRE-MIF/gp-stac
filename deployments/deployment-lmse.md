@@ -82,3 +82,5 @@ Status: In production (authentication required for data asset downloads)
 
 
 ## 7. Issues
+General mapping principle
+1. Our suggestion is to map the INSPIRE concept Spatial dataset  to the STAC representation STAC collection. However, i.e. in our (Lantmäteriet) implementation of ortophoto, the STAC collections together forms the corresponding INSPIRE dataset. The single collection is only a part of the dataset. Is the mapping principle dataset=STAC Collection still ok?
